@@ -27,4 +27,4 @@ composer install
 
 ## Autor
 
-* **Jonathan Durann** - *Desarrollador web* - [Github](https://github.com/jonathanjd)
+* **Jonathan Duran** - *Desarrollador web* - [Github](https://github.com/jonathanjd)
